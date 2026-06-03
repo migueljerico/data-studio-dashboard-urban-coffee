@@ -1,17 +1,17 @@
-# ☕ Dashboard de Ventas y KPIs — Looker Studio · Urban Coffee
+# ☕ Dashboard de Ventas y KPIs — Data Studio · Urban Coffee
 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboard-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Dataset-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-Publicado-4CAF50?style=for-the-badge)
 
-> **Ejercicio Práctico — Visualización de Datos con Looker Studio**  
+> **Ejercicio Práctico — Visualización de Datos con Data Studio**  
 > Caso de negocio: cadena de cafeterías ficticia **Urban Coffee**
 
 ---
 
 ## 🔗 Acceso al Dashboard
 
-[![Ver Dashboard en Looker Studio](https://img.shields.io/badge/📊%20Ver%20Dashboard-Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://datastudio.google.com/reporting/c8a2617b-ae45-4d8c-9947-a72762f2c850/page/OvizF/edit)
+[![Ver Dashboard en Data Studio](https://img.shields.io/badge/📊%20Ver%20Dashboard-Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://datastudio.google.com/reporting/c8a2617b-ae45-4d8c-9947-a72762f2c850/page/OvizF/edit)
 
 [![Ver Dataset](https://img.shields.io/badge/📋%20Ver%20Dataset-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1CB_OoMdhggqLfEnPgbmBEAg-iVxAsGVvkBnPEf_X47I/edit)
 
@@ -21,7 +21,7 @@
 
 ## 📋 Descripción del Proyecto
 
-Dashboard interactivo desarrollado en **Google Looker Studio** para analizar el rendimiento comercial de una cadena de cafeterías con locales en Madrid, Barcelona, Valencia y Sevilla.
+Dashboard interactivo desarrollado en **Google Data Studio** para analizar el rendimiento comercial de una cadena de cafeterías con locales en Madrid, Barcelona, Valencia y Sevilla.
 
 El objetivo es facilitar la **toma de decisiones basada en datos** mediante KPIs visuales, gráficos de tendencia y filtros dinámicos que permiten explorar ventas por producto, región, tipo de tienda y periodo temporal.
 
@@ -30,7 +30,7 @@ El objetivo es facilitar la **toma de decisiones basada en datos** mediante KPIs
 ## 🛠️ Caso Práctico — Pasos del Ejercicio
 
 ### Paso 1 · Crear el informe
-Acceso a [lookerstudio.google.com](https://lookerstudio.google.com) y creación de un informe nuevo desde cero.
+Acceso a [datastudio.google.com](https://datastudio.google.com) y creación de un informe nuevo desde cero.
 
 ### Paso 2 · Conectar la fuente de datos
 Conexión del informe al archivo de **Google Sheets** con los datos de ventas por región y producto (`Dataset_LookerStudio_UrbanCoffee V2`).
@@ -52,7 +52,7 @@ Configuración de controles de filtro por:
 ## 🗂️ Estructura del Repositorio
 
 ```
-looker-studio-dashboard-urban-coffee/
+data-studio-dashboard-urban-coffee/
 │
 ├── 📖 README.md
 │       └── Documentación completa del proyecto
@@ -108,7 +108,7 @@ Registros: **80 transacciones de ventas** | Periodo: **enero–diciembre 2025**
 
 | Herramienta | Uso |
 |---|---|
-| **Google Looker Studio** | Creación del dashboard interactivo |
+| **Google Data Studio** | Creación del dashboard interactivo |
 | **Google Sheets** | Fuente de datos conectada en tiempo real |
 
 ---
