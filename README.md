@@ -1,6 +1,6 @@
 # ☕ Dashboard de Ventas y KPIs — Data Studio · Urban Coffee
 
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboard-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Data Studio](https://img.shields.io/badge/Looker%20Studio-Dashboard-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Dataset-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-Publicado-4CAF50?style=for-the-badge)
 
@@ -58,7 +58,7 @@ data-studio-dashboard-urban-coffee/
 │       └── Documentación completa del proyecto
 │
 └── 🔗 Links externos
-        ├── Dashboard publicado en Looker Studio
+        ├── Dashboard publicado en Data Studio
         └── Dataset en Google Sheets
 ```
 
