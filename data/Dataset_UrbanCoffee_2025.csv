@@ -1,0 +1,81 @@
+ID_Venta,Fecha,Producto,Categoria,Region_Ciudad,Tipo_Tienda,Visitas,Cantidad_Vendida,Ingresos,Costes,Beneficio
+1,2025-01-29,Té Verde,Té,Madrid,Centro,24,6,16.8,6,10.8
+2,2025-03-12,Té Negro,Té,Barcelona,Centro Comercial,30,6,15.6,6,9.6
+3,2025-02-05,Té Verde,Té,Madrid,Centro,10,2,5.6,2,3.6
+4,2025-05-20,Té Negro,Té,Madrid,Centro,18,6,15.6,6,9.6
+5,2025-04-19,Cookie,Snacks,Madrid,Centro,25,5,9,3.5,5.5
+6,2025-01-24,Latte,Café,Barcelona,Centro Comercial,5,1,4,1.8,2.2
+7,2025-05-10,Muffin,Repostería,Madrid,Centro,8,2,5.4,2.2,3.2
+8,2025-02-20,Latte,Café,Sevilla,Calle,20,5,20,9,11
+9,2025-04-25,Té Negro,Té,Valencia,Oficina,12,2,5.2,2,3.2
+10,2025-02-10,Té Negro,Té,Sevilla,Calle,6,1,2.6,1,1.6
+11,2025-03-13,Croissant,Repostería,Barcelona,Centro Comercial,15,3,6.6,2.7,3.9
+12,2025-03-28,Muffin,Repostería,Madrid,Centro,10,2,5.4,2.2,3.2
+13,2025-04-08,Sandwich,Snacks,Madrid,Centro,5,1,5.5,2.5,3
+14,2025-03-30,Sandwich,Snacks,Valencia,Oficina,12,3,16.5,7.5,9
+15,2025-04-28,Té Verde,Té,Madrid,Centro,8,1,2.8,1,1.8
+16,2025-01-21,Espresso,Café,Valencia,Oficina,20,4,10,4.8,5.2
+17,2025-06-08,Muffin,Repostería,Valencia,Oficina,30,6,16.2,6.6,9.6
+18,2025-02-19,Sandwich,Snacks,Madrid,Centro,20,5,27.5,12.5,15
+19,2025-06-19,Mocha,Café,Barcelona,Centro Comercial,5,1,4.5,2,2.5
+20,2025-01-21,Mocha,Café,Barcelona,Centro Comercial,15,3,13.5,6,7.5
+21,2025-04-08,Latte,Café,Valencia,Oficina,6,1,4,1.8,2.2
+22,2025-06-12,Croissant,Repostería,Valencia,Oficina,20,4,8.8,3.6,5.2
+23,2025-04-05,Cappuccino,Café,Valencia,Oficina,10,2,7.6,3.4,4.2
+24,2025-06-21,Té Negro,Té,Valencia,Oficina,8,2,5.2,2,3.2
+25,2025-06-24,Espresso,Café,Madrid,Centro,30,6,15,7.2,7.8
+26,2025-06-12,Mocha,Café,Barcelona,Centro Comercial,25,5,22.5,10,12.5
+27,2025-03-04,Cappuccino,Café,Barcelona,Centro Comercial,25,5,19,8.5,10.5
+28,2025-04-08,Espresso,Café,Valencia,Oficina,18,4,10,4.8,5.2
+29,2025-06-26,Latte,Café,Barcelona,Centro Comercial,35,6,24,10.8,13.2
+30,2025-03-25,Té Negro,Té,Madrid,Centro,28,6,15.6,6,9.6
+31,2025-01-09,Mocha,Café,Valencia,Oficina,10,2,9,4,5
+32,2025-03-10,Mocha,Café,Madrid,Centro,20,4,18,8,10
+33,2025-05-26,Croissant,Repostería,Valencia,Oficina,10,2,4.4,1.8,2.6
+34,2025-06-17,Té Verde,Té,Sevilla,Calle,8,2,5.6,2,3.6
+35,2025-06-14,Espresso,Café,Sevilla,Calle,15,4,10,4.8,5.2
+36,2025-03-09,Latte,Café,Barcelona,Centro Comercial,10,2,8,3.6,4.4
+37,2025-05-24,Mocha,Café,Valencia,Oficina,8,2,9,4,5
+38,2025-05-30,Té Negro,Té,Sevilla,Calle,30,6,15.6,6,9.6
+39,2025-04-13,Croissant,Repostería,Valencia,Oficina,25,5,11,4.5,6.5
+40,2025-02-05,Espresso,Café,Sevilla,Calle,10,2,5,2.4,2.6
+41,2025-01-13,Té Verde,Té,Madrid,Centro,5,1,2.8,1,1.8
+42,2025-06-10,Croissant,Repostería,Barcelona,Centro Comercial,8,2,4.4,1.8,2.6
+43,2025-04-19,Té Negro,Té,Madrid,Centro,24,6,15.6,6,9.6
+44,2025-04-08,Cookie,Snacks,Sevilla,Calle,20,4,7.2,2.8,4.4
+45,2025-03-06,Muffin,Repostería,Madrid,Centro,25,5,13.5,5.5,8
+46,2025-01-30,Cappuccino,Café,Valencia,Oficina,35,6,22.8,10.2,12.6
+47,2025-03-29,Latte,Café,Madrid,Centro,30,6,24,10.8,13.2
+48,2025-04-22,Cookie,Snacks,Barcelona,Centro Comercial,15,3,5.4,2.1,3.3
+49,2025-01-01,Latte,Café,Valencia,Oficina,20,4,16,7.2,8.8
+50,2025-02-15,Latte,Café,Madrid,Centro,25,5,20,9,11
+51,2025-07-12,Mocha,Café,Madrid,Centro,20,4,18,8,10
+52,2025-07-24,Croissant,Repostería,Barcelona,Centro Comercial,25,5,11,4.5,6.5
+53,2025-08-05,Latte,Café,Valencia,Oficina,10,2,8,3.6,4.4
+54,2025-08-18,Té Verde,Té,Sevilla,Calle,15,3,8.4,3,5.4
+55,2025-09-02,Sandwich,Snacks,Madrid,Centro,30,6,33,15,18
+56,2025-09-14,Cookie,Snacks,Barcelona,Centro Comercial,20,4,7.2,2.8,4.4
+57,2025-10-01,Cappuccino,Café,Valencia,Oficina,25,5,19,8.5,10.5
+58,2025-10-19,Té Negro,Té,Sevilla,Calle,5,1,2.6,1,1.6
+59,2025-11-08,Espresso,Café,Madrid,Centro,15,3,7.5,3.6,3.9
+60,2025-11-22,Muffin,Repostería,Barcelona,Centro Comercial,10,2,5.4,2.2,3.2
+61,2025-12-04,Mocha,Café,Valencia,Oficina,30,6,27,12,15
+62,2025-12-15,Latte,Café,Sevilla,Calle,25,5,20,9,11
+63,2025-07-03,Cappuccino,Café,Madrid,Centro,10,2,7.6,3.4,4.2
+64,2025-08-21,Espresso,Café,Barcelona,Centro Comercial,20,4,10,4.8,5.2
+65,2025-09-09,Té Verde,Té,Valencia,Oficina,30,6,16.8,6,10.8
+66,2025-10-25,Sandwich,Snacks,Sevilla,Calle,15,3,16.5,7.5,9
+67,2025-11-14,Croissant,Repostería,Madrid,Centro,5,1,2.2,0.9,1.3
+68,2025-12-28,Té Negro,Té,Barcelona,Centro Comercial,25,5,13,5,8
+69,2025-07-29,Cookie,Snacks,Valencia,Oficina,10,2,3.6,1.4,2.2
+70,2025-08-11,Muffin,Repostería,Sevilla,Calle,20,4,10.8,4.4,6.4
+71,2025-09-25,Latte,Café,Madrid,Centro,30,6,24,10.8,13.2
+72,2025-10-06,Mocha,Café,Barcelona,Centro Comercial,15,3,13.5,6,7.5
+73,2025-11-30,Cappuccino,Café,Valencia,Oficina,5,1,3.8,1.7,2.1
+74,2025-12-09,Espresso,Café,Sevilla,Calle,25,5,12.5,6,6.5
+75,2025-07-17,Té Verde,Té,Madrid,Centro,10,2,5.6,2,3.6
+76,2025-08-28,Sandwich,Snacks,Barcelona,Centro Comercial,15,3,16.5,7.5,9
+77,2025-09-15,Croissant,Repostería,Valencia,Oficina,20,4,8.8,3.6,5.2
+78,2025-10-22,Cookie,Snacks,Sevilla,Calle,10,2,3.6,1.4,2.2
+79,2025-11-18,Latte,Café,Madrid,Centro,20,4,16,7.2,8.8
+80,2025-12-05,Muffin,Repostería,Barcelona,Centro Comercial,30,6,16.2,6.6,9.6
